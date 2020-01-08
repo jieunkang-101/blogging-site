@@ -1,6 +1,8 @@
 .post {
 background-color: bisque;
 font-style: normal;
+margin-top: 100px;
+margin-bottom: 100px;
 
 
 }
@@ -10,4 +12,15 @@ font-style: normal;
   font-kerning: inherit;
   font-weight: bolder;
 
+}
+
+.italic{
+  font-style: italic;
+}
+
+body{
+  margin-top: 200px;
+  margin-bottom: 200px;
+  margin-left: 200px;
+  margin-right: 200px;
 }
